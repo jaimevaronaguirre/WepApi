@@ -1,0 +1,79 @@
+D:\Praciticas en C#\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.deps.json
+D:\Praciticas en C#\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.dll
+D:\Praciticas en C#\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.pdb
+D:\Praciticas en C#\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.DAL.dll
+D:\Praciticas en C#\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.Entity.dll
+D:\Praciticas en C#\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.DAL.pdb
+D:\Praciticas en C#\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.Entity.pdb
+D:\Praciticas en C#\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.AssemblyReference.cache
+D:\Praciticas en C#\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praciticas en C#\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.AssemblyInfoInputs.cache
+D:\Praciticas en C#\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.AssemblyInfo.cs
+D:\Praciticas en C#\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.CoreCompileInputs.cache
+D:\Praciticas en C#\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.Up2Date
+D:\Praciticas en C#\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.dll
+D:\Praciticas en C#\WebApi\WebApi.IOC\obj\Debug\net8.0\refint\WebApi.IOC.dll
+D:\Praciticas en C#\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.pdb
+D:\Praciticas en C#\WebApi\WebApi.IOC\obj\Debug\net8.0\ref\WebApi.IOC.dll
+D:\Praciticas en C#\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.BLL.dll
+D:\Praciticas en C#\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.BLL.pdb
+C:\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.deps.json
+C:\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.dll
+C:\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.pdb
+C:\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.BLL.dll
+C:\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.DAL.dll
+C:\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.BLL.pdb
+C:\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.AssemblyReference.cache
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.AssemblyInfoInputs.cache
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.AssemblyInfo.cs
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.CoreCompileInputs.cache
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.sourcelink.json
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.Up2Date
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.dll
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\refint\WebApi.IOC.dll
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.pdb
+C:\WebApi\WebApi.IOC\obj\Debug\net8.0\ref\WebApi.IOC.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.deps.json
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.BLL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.DAL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.Entity.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.BLL.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.DAL.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\bin\Debug\net8.0\WebApi.Entity.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.AssemblyReference.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.AssemblyInfoInputs.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.AssemblyInfo.cs
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.CoreCompileInputs.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.sourcelink.json
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.Up2Date
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\refint\WebApi.IOC.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.IOC\obj\Debug\net8.0\ref\WebApi.IOC.dll
+C:\WebApi - copia\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.deps.json
+C:\WebApi - copia\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.dll
+C:\WebApi - copia\WebApi.IOC\bin\Debug\net8.0\WebApi.IOC.pdb
+C:\WebApi - copia\WebApi.IOC\bin\Debug\net8.0\WebApi.BLL.dll
+C:\WebApi - copia\WebApi.IOC\bin\Debug\net8.0\WebApi.DAL.dll
+C:\WebApi - copia\WebApi.IOC\bin\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi - copia\WebApi.IOC\bin\Debug\net8.0\WebApi.BLL.pdb
+C:\WebApi - copia\WebApi.IOC\bin\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi - copia\WebApi.IOC\bin\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.AssemblyReference.cache
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.AssemblyInfoInputs.cache
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.AssemblyInfo.cs
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.CoreCompileInputs.cache
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.sourcelink.json
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.csproj.Up2Date
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.dll
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\refint\WebApi.IOC.dll
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\WebApi.IOC.pdb
+C:\WebApi - copia\WebApi.IOC\obj\Debug\net8.0\ref\WebApi.IOC.dll

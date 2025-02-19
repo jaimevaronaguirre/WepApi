@@ -1,0 +1,71 @@
+D:\Praciticas en C#\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.deps.json
+D:\Praciticas en C#\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.dll
+D:\Praciticas en C#\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.pdb
+D:\Praciticas en C#\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.Entity.dll
+D:\Praciticas en C#\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.Entity.pdb
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.AssemblyReference.cache
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.AssemblyInfoInputs.cache
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.AssemblyInfo.cs
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.CoreCompileInputs.cache
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.Up2Date
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.dll
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\refint\WebApi.DAL.dll
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.pdb
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\ref\WebApi.DAL.dll
+D:\Praciticas en C#\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.runtimeconfig.json
+D:\Praciticas en C#\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.genruntimeconfig.cache
+C:\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.deps.json
+C:\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.runtimeconfig.json
+C:\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.dll
+C:\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.AssemblyReference.cache
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.AssemblyInfoInputs.cache
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.AssemblyInfo.cs
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.CoreCompileInputs.cache
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.sourcelink.json
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.Up2Date
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.dll
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\refint\WebApi.DAL.dll
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.genruntimeconfig.cache
+C:\WebApi\WebApi.DAL\obj\Debug\net8.0\ref\WebApi.DAL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.deps.json
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.runtimeconfig.json
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.Entity.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\bin\Debug\net8.0\WebApi.Entity.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.AssemblyReference.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.AssemblyInfoInputs.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.AssemblyInfo.cs
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.CoreCompileInputs.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.sourcelink.json
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.Up2Date
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\refint\WebApi.DAL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.genruntimeconfig.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.DAL\obj\Debug\net8.0\ref\WebApi.DAL.dll
+C:\WebApi - copia\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.deps.json
+C:\WebApi - copia\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.runtimeconfig.json
+C:\WebApi - copia\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.dll
+C:\WebApi - copia\WebApi.DAL\bin\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi - copia\WebApi.DAL\bin\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi - copia\WebApi.DAL\bin\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.AssemblyReference.cache
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.AssemblyInfoInputs.cache
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.AssemblyInfo.cs
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.CoreCompileInputs.cache
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.sourcelink.json
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.csproj.Up2Date
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.dll
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\refint\WebApi.DAL.dll
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\WebApi.DAL.genruntimeconfig.cache
+C:\WebApi - copia\WebApi.DAL\obj\Debug\net8.0\ref\WebApi.DAL.dll

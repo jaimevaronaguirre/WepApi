@@ -1,0 +1,71 @@
+D:\Praciticas en C#\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.deps.json
+D:\Praciticas en C#\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.dll
+D:\Praciticas en C#\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.pdb
+D:\Praciticas en C#\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.Entity.dll
+D:\Praciticas en C#\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.Entity.pdb
+D:\Praciticas en C#\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.AssemblyReference.cache
+D:\Praciticas en C#\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praciticas en C#\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.AssemblyInfoInputs.cache
+D:\Praciticas en C#\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.AssemblyInfo.cs
+D:\Praciticas en C#\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.CoreCompileInputs.cache
+D:\Praciticas en C#\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.Up2Date
+D:\Praciticas en C#\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.dll
+D:\Praciticas en C#\WebApi\WebApi.BLL\obj\Debug\net8.0\refint\WebApi.BLL.dll
+D:\Praciticas en C#\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.pdb
+D:\Praciticas en C#\WebApi\WebApi.BLL\obj\Debug\net8.0\ref\WebApi.BLL.dll
+D:\Praciticas en C#\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.DAL.dll
+D:\Praciticas en C#\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.deps.json
+C:\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.dll
+C:\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.pdb
+C:\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.DAL.dll
+C:\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.AssemblyReference.cache
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.AssemblyInfoInputs.cache
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.AssemblyInfo.cs
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.CoreCompileInputs.cache
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.sourcelink.json
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.Up2Date
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.dll
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\refint\WebApi.BLL.dll
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.pdb
+C:\WebApi\WebApi.BLL\obj\Debug\net8.0\ref\WebApi.BLL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.deps.json
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.DAL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.Entity.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.DAL.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\bin\Debug\net8.0\WebApi.Entity.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.AssemblyReference.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.AssemblyInfoInputs.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.AssemblyInfo.cs
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.CoreCompileInputs.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.sourcelink.json
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.Up2Date
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\refint\WebApi.BLL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.BLL\obj\Debug\net8.0\ref\WebApi.BLL.dll
+C:\WebApi - copia\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.deps.json
+C:\WebApi - copia\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.dll
+C:\WebApi - copia\WebApi.BLL\bin\Debug\net8.0\WebApi.BLL.pdb
+C:\WebApi - copia\WebApi.BLL\bin\Debug\net8.0\WebApi.DAL.dll
+C:\WebApi - copia\WebApi.BLL\bin\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi - copia\WebApi.BLL\bin\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi - copia\WebApi.BLL\bin\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.AssemblyReference.cache
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.AssemblyInfoInputs.cache
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.AssemblyInfo.cs
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.CoreCompileInputs.cache
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.sourcelink.json
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.csproj.Up2Date
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.dll
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\refint\WebApi.BLL.dll
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\WebApi.BLL.pdb
+C:\WebApi - copia\WebApi.BLL\obj\Debug\net8.0\ref\WebApi.BLL.dll

@@ -1,0 +1,679 @@
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\appsettings.json
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.exe
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.deps.json
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.pdb
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.pdb
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+D:\Praciticas en C#\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.ClientModel.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.DAL.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.Entity.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.IOC.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.DAL.pdb
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.Entity.pdb
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.IOC.pdb
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.BLL.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\WebApi.BLL.pdb
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Humanizer.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Praciticas en C#\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\WebApi\WebApi\bin\Debug\net8.0\appsettings.json
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\WebApi\WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Humanizer.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.BLL.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.DAL.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.IOC.dll
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.BLL.pdb
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi\WebApi\bin\Debug\net8.0\WebApi.IOC.pdb
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
+C:\WebApi\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\WebApi\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\appsettings.Development.json
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\appsettings.json
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.exe
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.deps.json
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\AutoMapper.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Azure.Core.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Humanizer.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.ClientModel.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.CodeDom.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.BLL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.DAL.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.Entity.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.IOC.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.BLL.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.DAL.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.Entity.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi\bin\Debug\net8.0\WebApi.IOC.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+G:\Proyecto Webxxxx\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\appsettings.json
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Humanizer.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.BLL.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.DAL.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.IOC.dll
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.BLL.pdb
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.DAL.pdb
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi - copia\WebApi\bin\Debug\net8.0\WebApi.IOC.pdb
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\WebApi - copia\WebApi\obj\Debug\net8.0\ref\WebApi.dll

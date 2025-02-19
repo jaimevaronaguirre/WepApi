@@ -1,0 +1,59 @@
+D:\Praciticas en C#\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.deps.json
+D:\Praciticas en C#\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.runtimeconfig.json
+D:\Praciticas en C#\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.dll
+D:\Praciticas en C#\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.pdb
+D:\Praciticas en C#\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.csproj.AssemblyReference.cache
+D:\Praciticas en C#\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praciticas en C#\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.AssemblyInfoInputs.cache
+D:\Praciticas en C#\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.AssemblyInfo.cs
+D:\Praciticas en C#\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.csproj.CoreCompileInputs.cache
+D:\Praciticas en C#\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.dll
+D:\Praciticas en C#\WebApi\WebApi.Entity\obj\Debug\net8.0\refint\WebApi.Entity.dll
+D:\Praciticas en C#\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.pdb
+D:\Praciticas en C#\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.genruntimeconfig.cache
+D:\Praciticas en C#\WebApi\WebApi.Entity\obj\Debug\net8.0\ref\WebApi.Entity.dll
+C:\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.deps.json
+C:\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.runtimeconfig.json
+C:\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.csproj.AssemblyReference.cache
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.AssemblyInfoInputs.cache
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.AssemblyInfo.cs
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.csproj.CoreCompileInputs.cache
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.sourcelink.json
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\refint\WebApi.Entity.dll
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.genruntimeconfig.cache
+C:\WebApi\WebApi.Entity\obj\Debug\net8.0\ref\WebApi.Entity.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.deps.json
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.runtimeconfig.json
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.csproj.AssemblyReference.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.AssemblyInfoInputs.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.AssemblyInfo.cs
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.csproj.CoreCompileInputs.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.sourcelink.json
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\refint\WebApi.Entity.dll
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.pdb
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.genruntimeconfig.cache
+G:\Proyecto Webxxxx\WebApi\WebApi.Entity\obj\Debug\net8.0\ref\WebApi.Entity.dll
+C:\WebApi - copia\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.deps.json
+C:\WebApi - copia\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.runtimeconfig.json
+C:\WebApi - copia\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi - copia\WebApi.Entity\bin\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.csproj.AssemblyReference.cache
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.AssemblyInfoInputs.cache
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.AssemblyInfo.cs
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.csproj.CoreCompileInputs.cache
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.sourcelink.json
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.dll
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\refint\WebApi.Entity.dll
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.pdb
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\WebApi.Entity.genruntimeconfig.cache
+C:\WebApi - copia\WebApi.Entity\obj\Debug\net8.0\ref\WebApi.Entity.dll
